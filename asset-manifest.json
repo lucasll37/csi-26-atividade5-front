@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.e4eb33e1.js",
-    "index.html": "/index.html",
-    "main.e4eb33e1.js.map": "/static/js/main.e4eb33e1.js.map"
+    "main.js": "/csi-26-atividade5-front/static/js/main.e4eb33e1.js",
+    "index.html": "/csi-26-atividade5-front/index.html",
+    "main.e4eb33e1.js.map": "/csi-26-atividade5-front/static/js/main.e4eb33e1.js.map"
   },
   "entrypoints": [
     "static/js/main.e4eb33e1.js"
