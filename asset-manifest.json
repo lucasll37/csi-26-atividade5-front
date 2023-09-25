@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/csi-26-atividade5-front/static/js/main.e4eb33e1.js",
+    "main.css": "/csi-26-atividade5-front/static/css/main.536b7e52.css",
+    "main.js": "/csi-26-atividade5-front/static/js/main.7e820aef.js",
     "index.html": "/csi-26-atividade5-front/index.html",
-    "main.e4eb33e1.js.map": "/csi-26-atividade5-front/static/js/main.e4eb33e1.js.map"
+    "main.536b7e52.css.map": "/csi-26-atividade5-front/static/css/main.536b7e52.css.map",
+    "main.7e820aef.js.map": "/csi-26-atividade5-front/static/js/main.7e820aef.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4eb33e1.js"
+    "static/css/main.536b7e52.css",
+    "static/js/main.7e820aef.js"
   ]
 }
